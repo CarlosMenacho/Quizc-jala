@@ -4,13 +4,11 @@ Only some features implemented
 New question type called NUMERIC, and associate the next validations REQUIRED and MIN added
 
 # Validations
-We want to support other kind of validations for question's answer, some of them are:
-
-Text validations
- - Max length
+Text validations and Numeric
+ - Max length (text)
  - Only uppercase text
-Numeric validation
- - MAX validation
+ - MAX validation (Numeric)
+ 
 
 
 
